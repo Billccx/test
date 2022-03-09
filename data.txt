@@ -63,10 +63,6 @@ camera1:
 0.614976 2.49827 8.18864e-05 left ankle
 0.349344 2.46202 3.69177e-05 right ankle
 0.628478 2.58647 8.16962e-05 left heel
-
-
-
-dveveeeeeeeeeeeeeeee
 0.34375 2.5429 6.71559e-05 right heel
 0.545018 2.63448 0.000153042 left foot index
 0.355707 2.6284 9.7335e-05 right foot index
